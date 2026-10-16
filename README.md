@@ -22,8 +22,8 @@ Welcome to my professional portfolio! I am a dedicated GRC and cybersecurity pro
 * **Focus Areas:** Regulatory compliance frameworks, risk management methodologies, security policy creation, audit preparation, and risk mitigation strategies.
 
 ### **Cybersecurity Professional Training (Phoenix Cohort)**
-* **Institution:** TS Academy[cite: 2]
-* **Key Focus:** Full-lifecycle penetration testing, vulnerability assessment, defensive security operations, threat intelligence, and security compliance[cite: 2].
+* **Institution:** TS Academy
+* **Key Focus:** Full-lifecycle penetration testing, vulnerability assessment, defensive security operations, threat intelligence, and security compliance.
 
 ---
 
@@ -51,5 +51,5 @@ Check out some of my core labs and documentation highlights:
 
 ## 📬 Let's Connect
 
-* **LinkedIn:** [Raphael's LinkedIn Profile](https://www.linkedin.com)
+* **LinkedIn:** linkedin.com/in/raphael-ndidi-uboma
 * **Email:** ralphndidi@gmail.com
